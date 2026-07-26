@@ -56,6 +56,10 @@
 `Django REST Framework` `JWT` `PostgreSQL` `Testing`
 > Stateless REST API with 50+ endpoints, 92% test coverage (150+ tests), custom pagination for 10,000+ records with sub-200ms response times.
 
+
+#### 💳 [Multi-Tenant SaaS Billing Platform](https://github.com/Touseeff0000/saas-billing-platform)
+`Python` `Django` `Django REST Framework` `Stripe API` `JWT` `Bootstrap 5`
+> Multi-tenant backend with fully isolated data per company, enforced at the query level across all API endpoints. Integrated Stripe Checkout for subscription billing with server-side payment verification, dual JWT + session authentication, and usage-based metering per tenant.
 ---
 
 ### 🧰 Tech Stack
