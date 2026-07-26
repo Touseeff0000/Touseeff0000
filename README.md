@@ -13,7 +13,6 @@
 ---
 
 ### 🚀 About Me
-
 - 🎓 Recently completed my **BS Computer Science (2026)** from The Islamia University of Bahawalpur
 - 💼 1+ years of hands-on experience building **production-grade backend systems**
 - 🛠️ Specialized in **Python, Django, Django REST Framework, PostgreSQL**
@@ -36,6 +35,10 @@
 ---
 
 ### 🔥 Featured Projects
+
+#### 💳 [Multi-Tenant SaaS Billing Platform](https://github.com/Touseeff0000/saas-billing-platform)
+`Python` `Django` `Django REST Framework` `Stripe API` `JWT` `Bootstrap 5`
+> Multi-tenant backend with fully isolated data per company, enforced at the query level across all API endpoints. Integrated Stripe Checkout for subscription billing with server-side payment verification, dual JWT + session authentication, and usage-based metering per tenant.
 
 #### 🏥 [Hospital Management System](https://github.com/Touseeff0000)
 `Python` `Django` `Bootstrap` `PostgreSQL` `JWT`
@@ -66,7 +69,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Touseeff0000&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Touseeff0000&layout=compact&theme=radical&hide_border=true" />
@@ -79,7 +81,6 @@
 ---
 
 ### 🤝 Let's Connect
-
 <p align="center">
   <a href="mailto:touseefhussain892@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -90,5 +91,3 @@
 </p>
 
 <p align="center"><i>⭐️ From a developer who loves clean architecture and scalable backends.</i></p>
-
- engineering is invisible — it just works."</i></p>
